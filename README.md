@@ -12,6 +12,6 @@ a candidate arch is modeled as a polynomial curve and compared to the template c
 The comparison is made based on Root Mean Square Error (RMSE), 
 and the slice minimizing the RMSE is considered to containthe desired dental arch.
 The required panoramic image is thereby generated when the intensities of the original CBCT along the appropriate arch are projected in a 2D image.
+![]Picture4.png)
 This representation will be analyzed using a CNN structure to detect the dental issues.
 
-![]Picture4.png)
